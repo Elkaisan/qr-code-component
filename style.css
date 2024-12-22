@@ -57,5 +57,8 @@ div.card {
 .texts {
   display: inline-block;
   text-align: center;
+}
+
+.texts p {
   padding: 0 16px;
 }
