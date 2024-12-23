@@ -28,8 +28,8 @@ body {
   letter-spacing: 0px;
   font-family: "Outfit";
   font-weight: 700;
-  margin-top: 24px;
-  margin-bottom: 16px;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
   color: var(--color-slate-900);
 }
 
@@ -44,12 +44,12 @@ body {
 
 /* -- STYLES --- */
 
-div.card {
+main {
   background-color: white;
-  padding: 16px 16px 40px;
-  height: 499px;
-  width: 320px;
-  border-radius: 20px;
+  padding: 1rem 1rem 1rem;
+  height: 31.1875rem;
+  width: 20rem;
+  border-radius: 1.25rem;
   display: flex;
   flex-direction: column;
 }
@@ -57,8 +57,5 @@ div.card {
 .texts {
   display: inline-block;
   text-align: center;
-}
-
-.texts p {
-  padding: 0 16px;
+  padding: 0 1rem;
 }
