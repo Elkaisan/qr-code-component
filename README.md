@@ -9,7 +9,7 @@ The QR code component project is a simple yet effective way to practice basic HT
 
 Thanks for checking out this front-end coding challenge.
 
-[![LIVE](https://img.shields.io/badge/LIVE-FFB6A4?style=for-the-badge&logo=github&logoColor=white)](https://elkaisan.github.io/qr-code-component-main/)
+[![LIVE](https://img.shields.io/badge/LIVE-FFB6A4?style=for-the-badge&logo=github&logoColor=white)](https://elkaisan.github.io/qr-code-component/)
 
 ## Build With
 
